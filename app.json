@@ -30,7 +30,7 @@
 		"OWNER_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "916380260672"
+			"value": "94760836529"
 		},
 		"AUTO_TYPING": {
 			"description": "Type true or false",
@@ -85,7 +85,7 @@
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
 			"required": true,
-			"value": "916380260672"
+			"value": "94760836529"
 		},
 		"DOCUMENT1": {
 			"description": "If You Dont known What Is This Then Don't Change This",
